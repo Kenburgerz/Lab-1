@@ -1,0 +1,6 @@
+[submodule "ET0735-DevOps-AIoT"]
+	path = ET0735-DevOps-AIoT
+	url = https://github.com/emeryaydan/ET0735-DevOps-AIoT/
+[submodule "Lab1_submodule"]
+	path = Lab1_submodule
+	url = https://github.com/ET0735-DevOps-AIoT/Lab1_submodule.git
